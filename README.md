@@ -20,9 +20,11 @@
 - [ ] npc controller 구축
 - [ ] quest 시스템 구축
 - [ ] 메뉴 및 세이브 구축
-
+---
+<p align = "left">
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=Aseprite&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Visual-Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/></a>&nbsp<br>
+</p>
