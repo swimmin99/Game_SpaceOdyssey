@@ -7,11 +7,12 @@
 
   ---
 |날짜|로그|자료|
-|------|---|----|
+|---|---------|----|
 |2022-10-18|blank|blank|
 |2022-10-18|blank|blank|
 |2022-10-18|blank|blank|
-  ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=50&section=header&text=checklist&fontSize=30&fontAlign=20)
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=50&section=header&text=checklist&fontSize=30&fontAlign=20)
   [] 2D TOP DOWN PLAYER 환경 구축
   [] 인벤토리 시스템 구축
   [] 대화 시스템 구축
