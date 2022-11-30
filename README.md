@@ -13,8 +13,8 @@
   ---
 </div>
 
-[] 2D TOP DOWN PLAYER 환경 구축
-[] 인벤토리 시스템 구축
+[]2D TOP DOWN PLAYER 환경 구축
+[]인벤토리 시스템 구축
 [] 대화 시스템 구축
 [] 배틀 인카운터 시스템 구축
 [] npc controller 구축
