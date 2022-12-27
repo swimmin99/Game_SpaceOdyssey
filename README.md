@@ -11,6 +11,19 @@
 |2022-10-18|blank|blank|
 |2022-10-18|blank|blank|
   ---
+  
+![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=UNITY%20STUDY(B-JayU)&fontColor=000000&fontSize=20)
+
+  ---
+|날짜|로그|자료|
+|---|---------|----|
+|2022-12-26|플레이어 구현|blank|
+|2022-12-27|적군구현 및 피격|blank|
+|2022-12-28|아이템 구현|blank|
+|2022-12-29|UI & GameManager|blank|
+|2022-12-30|점수기능 & 게임데이터 저장|blank|
+
+  ---
 </div>
 
 - [ ] 2D TOP DOWN PLAYER 환경 구축
