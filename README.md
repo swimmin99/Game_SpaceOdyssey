@@ -15,13 +15,14 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=UNITY%20STUDY(B-JayU)&fontColor=000000&fontSize=20)
 
   ---
-|날짜|로그|자료|
-|---|---------|----|
-|2022-12-26|플레이어 구현|blank|
-|2022-12-27|적군구현 및 피격|blank|
-|2022-12-28|아이템 구현|blank|
-|2022-12-29|UI & GameManager|blank|
-|2022-12-30|점수기능 & 게임데이터 저장|blank|
+|날짜|로그|자료|비고|
+|---|---------|----|------------------|
+|2022-12-26|플레이어 구현|||
+|2022-12-27|적군구현 및 피격|||
+|2022-12-28|플레이어 방향 sprite flip 및 능동형 enemy 구현||kinematic 적용시 collision allowed|
+|2022-12-28|아이템 구현|||
+|2022-12-29|UI & GameManager|||
+|2022-12-30|점수기능 & 게임데이터 저장|||
 
   ---
 </div>
