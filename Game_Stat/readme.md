@@ -7,7 +7,7 @@
   ---
 |날짜|로그|자료|
 |---|---------|----|
-|2023-01-04|unity c# 그래프 시각화 하기||
+|2023-01-04|unity c# 그래프 시각화 하기|https://github.com/swimmin99/Game_TBA/blob/main/Game_Stat/Window_Graph.cs|
 
   ---
 <p align = "left">
