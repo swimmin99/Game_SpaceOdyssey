@@ -2,7 +2,7 @@
 <div align="center">
   
 
-![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=게임통계&fontColor=000000&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=auto&text=게임통계&fontColor=000000&fontSize=20)
 
   ---
 |날짜|로그|자료|
