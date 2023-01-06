@@ -8,12 +8,13 @@
 |날짜|로그|자료|
 |---|---------|----|
 |2023-01-04|unity c# 그래프 시각화 하기|https://github.com/swimmin99/Game_TBA/blob/main/Game_Stat/Window_Graph.cs|
+|2023-01-06|그래프 tab 기능 구현 하기|https://github.com/swimmin99/Game_TBA/blob/main/Game_Stat/Window_Graph.cs|
   ---
 </div>
 
 - [x] Graph 기본 기능 구현 (DrawGraph)
-- [ ] Pop(인구), Provision(식량), Resource(자원) button tab 기능 구현 
-- [ ] Graph 데이터 추가 이벤트 Testing
+- [x] Graph 데이터 추가 이벤트 Testing
+- [x] Pop(인구), Provision(식량), Resource(자원) button tab 기능 구현 
 - [ ] 게임 통계 로그 데이터 저장하기, 불러오기
 
 ---
