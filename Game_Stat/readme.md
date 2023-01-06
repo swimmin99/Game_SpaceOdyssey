@@ -11,8 +11,8 @@
   ---
 </div>
 
-- [ ] Graph 구현
-- [ ] Pop(인구), Provision(식량), Resource(자원) button => Tab(?) 기능 구현 
+- [x] Graph 기본 기능 구현 (DrawGraph)
+- [ ] Pop(인구), Provision(식량), Resource(자원) button tab 기능 구현 
 - [ ] Graph 데이터 추가 이벤트 Testing
 - [ ] 게임 통계 로그 데이터 저장하기, 불러오기
 
