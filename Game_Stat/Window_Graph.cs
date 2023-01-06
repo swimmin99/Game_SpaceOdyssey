@@ -7,12 +7,15 @@ public class Window_Graph : MonoBehaviour
 {
     [SerializeField] private Sprite circleSprite;
     private RectTransform graphContainer;
+    public List<int> value_pop;
+    public List<int> value_prov;
+    public List<int> value_resource;
 
     private void Awake() {
         graphContainer = transform.Find("graphContainer").GetComponent<RectTransform>();
-
-        List<int> valueList = new List<int>() {5,98, 56, 45};
-        ShowGraph(valueList);
+        initShowGraph();
+        //List<int> valueList = new List<int>() {5,98, 56, 45};
+        //ShowGraph(valueList);
     }
 
     private GameObject CreateCircle(Vector2 anchoredPosition) {
@@ -27,7 +30,18 @@ public class Window_Graph : MonoBehaviour
         return gameObject;
     }
 
-    private void ShowGraph(List<int> valueList) {
+    public void initShowGraph(){
+        Transform[] childList = graphContainer.GetComponentsInChildren<Transform>();
+
+        if (childList != null){
+            for (int i = 1; i < childList.Length; i++) {
+                if (childList[i] != transform)
+                    Destroy(childList[i].gameObject);
+            }
+        }
+    }
+
+    public void ShowGraph(List<int> valueList) {
         float graphHeight = graphContainer.sizeDelta.y;
         float yMaximum = 100f;
         float xSize = graphContainer.rect.width / valueList.Count;
