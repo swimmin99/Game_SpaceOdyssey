@@ -15,9 +15,9 @@
 
 - [x] Graph 기본 기능 구현 (DrawGraph)
 - [x] Graph 데이터 추가 이벤트 Testing
-- [x] Pop(인구), Provision(식량), Resource(자원) button tab 기능 구현 
-- [ ] c# List 파일 저장하기( 파일 입출력 )
-- [ ] 실제 게임 로그 데이터 파일 저장하기( 파일 입출력 )
+- [x] Pop(인구), Provision(식량), Resource(자원) button tab 기능 구현
+- [ ] 서브 메뉴 기능 구현 ( 계속하기, 데이터 저장하기, 종료하기 )
+- [ ] 데이터 저장 기능 구현하기
 - [ ] 게임 데이터 불러오기( 파일 입출력 )
 
 ---
