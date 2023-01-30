@@ -7,10 +7,10 @@
   ---
 |날짜|로그|자료|
 |---|---------|----|
-|2022-10-18|blank|blank|
-|2022-10-18|blank|blank|
-|2022-10-18|blank|blank|
-  ---
+|2023-01-21|waterPhysics|[meshManipulation](https://www.youtube.com/watch?v=_Ij24zRI9J0) / [shaderManipulation1](https://catlikecoding.com/unity/tutorials/flow/waves/) / [buoyancy](https://www.youtube.com/watch?v=iasDPyC0QOg&t=496s)|
+|2022-01-28|FoamShader and Texture Redone|[FoamShader1](https://www.youtube.com/watch?v=MHdDUqJHJxM&t=464s) / [FoamShader2](https://www.youtube.com/watch?v=MHdDUqJHJxM&t=464s)|
+|2022-01-29|PlayerController&BuildingGenerator|[ProceduralMouduleBuilding](https://www.youtube.com/watch?v=EWnLKpkJzVQ)
+---
 </div>
 
 - [ ] 2D TOP DOWN PLAYER 환경 구축
@@ -28,3 +28,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Visual-Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/></a>&nbsp<br>
 </p>
+
+</div>
+
+- [x]
