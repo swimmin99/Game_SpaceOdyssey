@@ -9,7 +9,8 @@
 |---|---------|----|
 |2023-01-21|waterPhysics| [shaderManipulation1](https://catlikecoding.com/unity/tutorials/flow/waves/) /[meshManipulation](https://www.youtube.com/watch?v=_Ij24zRI9J0) / [buoyancy](https://www.youtube.com/watch?v=iasDPyC0QOg&t=496s)|
 |2022-01-28|FoamShader and Texture Redone|[FoamShader1](https://www.youtube.com/watch?v=MHdDUqJHJxM&t=464s) / [FoamShader2](https://www.youtube.com/watch?v=MHdDUqJHJxM&t=464s)|
-|2022-01-29|PlayerController&BuildingGenerator|[ProceduralMouduleBuilding](https://www.youtube.com/watch?v=EWnLKpkJzVQ)
+|2022-01-29|PlayerController&BuildingGenerator|[ProceduralMouduleBuilding](https://www.youtube.com/watch?v=EWnLKpkJzVQ)|
+|2023-01-30|Orthographic Camera && Boat Change Script|[Orthographic Depth Calc](https://twitter.com/cyanilux/status/1169932943869059073?lang=en)|
 ---
 </div>
 
