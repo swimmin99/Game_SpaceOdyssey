@@ -16,19 +16,16 @@
 
 
 </div>
+통계 처리와 표시와 관련된 파트
+==관련 부분 담당 BJayU : 자세한 코드와 구현 내용  [링크](https://github.com/swimmin99/Game_SpaceOdyssey/blob/main/Game_Stat/readme.md)
+게임 관련 파트
+==관련 부분 담당 swimmin99 : 자세한 코드와 구현 내용  [링크](https://github.com/swimmin99/PrivateStudy-3DSpaceShotting)
+
+
 
 - [x] 인구 수 관련 변수들 관계 구축
 - [x] 인구 수 표현 그래프 C#으로 구현
-
-
-==관련 부분 담당 BJayU : 자세한 코드와 구현 내용  [링크](https://github.com/swimmin99/Game_SpaceOdyssey/blob/main/Game_Stat/readme.md)
-
-
 - [x] 슈팅 게임 틀 구현
-
-
-==관련 부분 담당 swimmin99 : 자세한 코드와 구현 내용  [링크](https://github.com/swimmin99/PrivateStudy-3DSpaceShotting)
-
 - [ ] 세계관 스토리 구현
 - [ ] 메뉴 설정창 구현
 - [ ] 전체 스테이지 컨트롤러
