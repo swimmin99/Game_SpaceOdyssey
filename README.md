@@ -10,18 +10,21 @@
   ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=DEV%20LOG&fontColor=000000&fontSize=15)
 
   
----
+
 </div>
 <div align="left">
 
 
-</div>
+
 통계 처리와 표시와 관련된 파트
 ==관련 부분 담당 BJayU : 자세한 코드와 구현 내용  [링크](https://github.com/swimmin99/Game_SpaceOdyssey/blob/main/Game_Stat/readme.md)
+
 게임 관련 파트
 ==관련 부분 담당 swimmin99 : 자세한 코드와 구현 내용  [링크](https://github.com/swimmin99/PrivateStudy-3DSpaceShotting)
 
+</div>
 
+---
 
 - [x] 인구 수 관련 변수들 관계 구축
 - [x] 인구 수 표현 그래프 C#으로 구현
