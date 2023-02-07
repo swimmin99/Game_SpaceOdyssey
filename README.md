@@ -14,8 +14,16 @@
 </div>
 <div align="left">
 
-<u><strong>단일 빌딩 블록 생성 (Single Building Generation)</strong></u>
-  
+
+</div>
+
+- [x] 인구 수 관련 변수들 관계 구축
+- [x] 인구 수 표현 그래프 C#으로 구현
+- [x] 슈팅 게임 틀 구현
+- [ ] 세계관 스토리 구현
+- [ ] 메뉴 설정창 구현
+- [ ] 전체 스테이지 컨트롤러
+- [ ] 스테이지 선택 화면 구현
 
 ```
 📌목표 : 모듈화 된 모델들을 이용하여 랜덤한 모습의 빌딩을 생성한 후 이를 도시의 모습으로 배치하기
@@ -62,15 +70,6 @@
   
   <div align="left">
 
-</div>
-
-- [ ] 2D TOP DOWN PLAYER 환경 구축
-- [ ] 인벤토리 시스템 구축
-- [ ] 대화 시스템 구축
-- [ ] 배틀 인카운터 시스템 구축
-- [ ] npc controller 구축
-- [ ] quest 시스템 구축
-- [ ] 메뉴 및 세이브 구축
 ---
 <p align = "left">
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
